@@ -1,4 +1,8 @@
-# FungarClicker
+# Fungar Clicker
+
+Fungar Clicker is a small survival clicker game made in one day.  Fight shroomies and get as much score as you can until there are too many of them!
+
+itch.io: https://svinoman.itch.io/fungar-clicker
 
 Main goals:
 * The result must be an android app.
